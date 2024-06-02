@@ -1,0 +1,18 @@
+*Los 10 departamentos con más casos de covid en Colombia ordenados de mayor a menor*
+
+https://alrojaspcovid.s3.amazonaws.com/top_10_casos_por_departamento.csv/part-00000-2e0cf83d-39d1-4afd-9789-451a1cf669d3-c000.csv
+
+*Las 10 ciudades con más casos de covid en Colombia ordenados de mayor a menor*
+
+https://alrojaspcovid.s3.amazonaws.com/top_10_casos_por_ciudad.csv/part-00000-9e39e4c9-c7e5-4872-8cdf-7aec3b5a1ffd-c000.csv
+
+*Los 10 días con más casos de covid en Colombia ordenados de mayor a menor*
+
+https://alrojaspcovid.s3.amazonaws.com/top_10_casos_por_dia.csv/part-00000-db5618cd-f14a-4dd1-b39a-b6c93c1c4630-c000.csv
+
+*Distribución de casos por edades de covid en Colombia*
+
+https://alrojaspcovid.s3.amazonaws.com/distribucion_casos_por_edades.csv/part-00000-d3fc0e9f-702a-4575-803c-42ea28c7f970-c000.csv
+
+*Pregunta de negocio: ¿Cuál es el municipio con el mayor número de casos confirmados de COVID-19?*
+https://alrojaspcovid.s3.amazonaws.com/municipio_mayor_casos_confirmados.csv/part-00000-24af002c-d6cd-45ae-8656-7f1a6edb1e95-c000.csv
